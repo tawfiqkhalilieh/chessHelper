@@ -1,2 +1,4 @@
 env/
 fish.exe
+dist/
+build/
